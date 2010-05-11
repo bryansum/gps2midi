@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* gps2midiAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 646}}";
+			sepNavSelRange = "{472, 0}";
+			sepNavVisRange = "{0, 798}";
+		};
+	};
+	1D3623250D0F684500981E51 /* gps2midiAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 754}}";
+			sepNavSelRange = "{222, 0}";
+			sepNavVisRange = "{42, 1411}";
+			sepNavWindowFrame = "{{15, 399}, {796, 774}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* gps2midi */ = {
+		activeExec = 0;
+		executables = (
+			23E071B7119910BE005B53B9 /* gps2midi */,
+		);
+	};
+	23E071B7119910BE005B53B9 /* gps2midi */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = gps2midi;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23E071C1119910DE005B53B9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23E071C2119910DE005B53B9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E071CD119911C0005B53B9 /* CLController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLController.h;
+		path = /Users/bsummersett/Projects/gps2midi/gps2midi/Classes/CLController.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 646}}";
+			sepNavSelRange = "{329, 0}";
+			sepNavVisRange = "{0, 690}";
+		};
+	};
+	23E071CE119911C0005B53B9 /* CLController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CLController.m;
+		path = /Users/bsummersett/Projects/gps2midi/gps2midi/Classes/CLController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 689}}";
+			sepNavSelRange = "{1200, 0}";
+			sepNavVisRange = "{35, 1327}";
+			sepNavWindowFrame = "{{84, 336}, {796, 774}}";
+		};
+	};
+	23E072071199160A005B53B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23E071CD119911C0005B53B9 /* CLController.h */;
+		name = "CLController.h: 15";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 0;
+	};
+	23E0720B11991627005B53B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23E071CE119911C0005B53B9 /* CLController.m */;
+		name = "CLController.m: 42";
+		rLen = 0;
+		rLoc = 1200;
+		rType = 0;
+		vrLen = 1327;
+		vrLoc = 35;
+	};
+	23E0720C11991627005B53B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23E071CD119911C0005B53B9 /* CLController.h */;
+		name = "CLController.h: 15";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23E071B7119910BE005B53B9 /* gps2midi */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* gps2midi */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* gps2midi */,
+		);
+		codeSenseManager = 23E071C2119910DE005B53B9 /* Code sense */;
+		executables = (
+			23E071B7119910BE005B53B9 /* gps2midi */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 295245359;
+			PBXWorkspaceStateSaveDate = 295245359;
+		};
+		perUserProjectItems = {
+			23E072071199160A005B53B9 = 23E072071199160A005B53B9 /* PBXTextBookmark */;
+			23E0720B11991627005B53B9 = 23E0720B11991627005B53B9 /* PBXTextBookmark */;
+			23E0720C11991627005B53B9 = 23E0720C11991627005B53B9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E071C1119910DE005B53B9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* gps2midi-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 378}, {796, 774}}";
+		};
+	};
+}
